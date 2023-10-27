@@ -234,7 +234,7 @@ button {
 }
 
 .logo {
-    width: 60px;
+    width: 80px;
 }
 .header_section {
     width: 100%;
@@ -1054,3 +1054,7 @@ button {
     margin-top: 90px;
 }
 
+.tour-image{
+    height: 200px;
+    object-fit: cover;
+}
